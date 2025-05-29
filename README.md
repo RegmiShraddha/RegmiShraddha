@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Shraddha Regmi
 
-🚀 **Flutter Enthusiast** with 1+ year of experience in building high-performance, cross-platform mobile applications using Flutter & Dart.
+🚀 **Flutter Enthusiast** with 1+ year of experience in building high-performance, cross-platform mobile applications solving real world problems using Flutter & Dart.
 
 ---
 
